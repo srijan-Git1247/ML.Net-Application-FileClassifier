@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileClassifier": {
+      "commandName": "Project",
+      "commandLineArgs": "predict \"D:\\Machine Learning Projects\\FileClassifier\\bin\\Debug\\net8.0\\FileClassifier.exe\""
+    }
+  }
+}
